@@ -1,5 +1,7 @@
-$ git clone https://github.com/verssache/shellgo
-$ cd shellgo
-$ php shell.php
+$ git clone https://github.com/ariq983/perboman
 
-FORMAT NOMER GAPAKE 62/0
+$ cd perboman
+
+$ php gas.php
+
+FORMAT NOMER GAPAKE 62/0 langsung 8xxxxx
